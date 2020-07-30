@@ -5,5 +5,5 @@
 
 # Águias Aeroclube
 
-Ainda precisa ser editado o README.
+Ainda precisa ser editado o README
  
